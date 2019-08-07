@@ -13,6 +13,7 @@ namespace firstapplication
             string amrutha;
             string name="Praveen";
             string arshitha;
+            string s = "devi";
         }
     }
 }
