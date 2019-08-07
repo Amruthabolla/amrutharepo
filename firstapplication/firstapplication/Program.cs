@@ -11,6 +11,7 @@ namespace firstapplication
         static void Main(string[] args)
         {
             string amrutha;
+            string name="Praveen";
         }
     }
 }
